@@ -2,3 +2,4 @@ Meu nome é Lucas Gongora Garcia Cid.
 Sou estudante de Engenharia de Software.
 Estou realizando uma atividade prática de Git e GitHub com SSH.
 Nesta atividade, aprendi a configurar SSH, criar commits e trabalhar com branches.
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
