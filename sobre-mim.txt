@@ -1,0 +1,3 @@
+Meu nome é Lucas Gongora Garcia Cid.
+Sou estudante de Engenharia de Software.
+Estou realizando uma atividade prática de Git e GitHub com SSH.
